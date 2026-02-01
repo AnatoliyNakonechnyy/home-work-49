@@ -9,9 +9,7 @@
       "vite/client",
       "@testing-library/jest-dom/vitest",
       "vitest/globals",
-      "@testing-library/jest-dom",
-      "jest",
-      "jest-extended"
+      "@testing-library/jest-dom"
     ],
     "skipLibCheck": true,
 
